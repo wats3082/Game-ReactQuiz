@@ -15,7 +15,7 @@ At the end of the match, the player gets score & stars corresponding to his perf
 ## Requirements ##
 * `git`
 * `nodejs >= 12`
-* `yarn`
+* `yarn` or 'npm'
 
 ## Installation ##
 
