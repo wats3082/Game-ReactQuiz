@@ -24,3 +24,6 @@ Open Command Line and input the following commands one line at a time
 * yarn start (or npm start)
 ```
 
+## Upcoming Enhancments (CI/CD) ##
+* Choose a quiz topic with other quesiton styles
+* Hint feature
