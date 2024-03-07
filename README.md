@@ -22,7 +22,9 @@ At the end of the match, the player gets score & stars corresponding to his perf
 ```
 git clone https://github.com/edilson258/QuizGame.git
 cd QuizGame
-yarn
+yarn install
+(or npm install)
 yarn start
+(or npm start)
 ```
 
