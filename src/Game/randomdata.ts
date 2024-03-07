@@ -1,7 +1,7 @@
 export const Questions = [
   {
     id: Math.random(),
-    question: "Quantos Planetas fazem parte do nosso Sistema Solar?",
+    question: "How many planets in our solar system?",
     correctAnswer: "8",
     wrongAnswers: [
       "10",
@@ -12,7 +12,7 @@ export const Questions = [
 
   {
     id: Math.random(),
-    question: "1 dia equivalem a ...",
+    question: "1 day is equivalent to...",
     correctAnswer: "86400s",
     wrongAnswers: [
       "1441m",
@@ -23,28 +23,28 @@ export const Questions = [
 
   {
     id: Math.random(),
-    question: "De quantas formas diferentes podemos organizar 5 alunos numa fila?",
-    correctAnswer: "120 formas",
+    question: "Who was the first Pokémon ever designed?",
+    correctAnswer: "Rhydon",
     wrongAnswers: [
-      "50 formas",
-      "100 formas",
-      "140 formas"
+      "Pikachu",
+      "Charmander",
+      "Bulbasaur"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Qual e a forca da gravidade na Terra?",
-    correctAnswer: "9.8m/s2",
+    question: "How does Pikachu evolve into Raichu?",
+    correctAnswer: "Thunderstone",
     wrongAnswers: [
-      "9.8m/s",
-      "8.9m/s",
-      "10m/s2"
+      "Evolutionstone",
+      "Firestone",
+      "Waterstone"
     ]
   },
   {
     id: Math.random(),
-    question: "Em que ano o Homem pisou na lua?",
+    question: "What year did Nasa go to the moon?",
     correctAnswer: "1960",
     wrongAnswers: [
       "2000",
@@ -54,7 +54,7 @@ export const Questions = [
   },
   {
     id: Math.random(),
-    question: "De quem é a famosa frase 'Penso, logo existo'?",
+    question: "Who said, I think therefore I am." ,
     correctAnswer: "Descartes",
     wrongAnswers: [
       "Sócrates",
@@ -65,51 +65,53 @@ export const Questions = [
   
   {
     id: Math.random(),
-    question: "Qual é o pais asiático cuja lingua oficial é Portugues?",
-    correctAnswer: "Macau",
+    question: "What is the speed of light?",
+    correctAnswer: "3x10^9",
     wrongAnswers: [
-      "Cazaquistão",
-      "Malásia",
-      "Moçambique"
+      "3x10^3",
+      "3x10^6",
+      "3x10^7"
+    ]
+  },
+  
+  
+  {
+    id: Math.random(),
+    question: "What is 3 + 6?",
+    correctAnswer: "9",
+    wrongAnswers: [
+      "3",
+      "10",
+      "31452621"
+    ]
+  },
+    
+  {
+    id: Math.random(),
+    question: "How many years for a spaceship of our current technology to reach the nearest star (besides our own) ?",
+    correctAnswer: "80,000 years",
+    wrongAnswers: [
+      "3 decades",
+      "100 years",
+      "314,000,000 years"
+    ]
+  },
+
+  
+  {
+    id: Math.random(),
+    question: "How many digits are in the number PI?",
+    correctAnswer: "Infinite",
+    wrongAnswers: [
+      "3",
+      "100",
+      "314"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Quantas lampadas são vendidas na china por dia?",
-    correctAnswer: "vai se f*der! 😎",
-    wrongAnswers: [
-      "500000",
-      "10000",
-      "Infinitas"
-    ]
-  },
-  
-  {
-    id: Math.random(),
-    question: "Quais o menor e o maior pais do mundo?",
-    correctAnswer: "Vaticano e Russia",
-    wrongAnswers: [
-      "Brasil e E.U.A",
-      "Angola e Reino Unido",
-      "Bélgica e Maurícias"
-    ]
-  },
-  
-  {
-    id: Math.random(),
-    question: "Quantas casas decimais tem o numero PI?",
-    correctAnswer: "Infinitas",
-    wrongAnswers: [
-      "Duas",
-      "Cem",
-      "Tres"
-    ]
-  },
-  
-  {
-    id: Math.random(),
-    question: "Atualmente, quantos elementos químicos a tabela periódica possui?",
+    question: "How many elements are on the periodic table?",
     correctAnswer: "118",
     wrongAnswers: [
       "53",
@@ -120,18 +122,19 @@ export const Questions = [
   
   {
     id: Math.random(),
-    question: "Quanto tempo a luz do Sol demora para chegar à Terra?",
-    correctAnswer: "8 minutos",
+    question: "How long for sunlight to reach Earth?",
+    correctAnswer: "8 minutes",
     wrongAnswers: [
-      "1 segundo",
-      "1 dia",
-      "8 segundos"
+      "1 sec",
+      "1 day",
+      "8 sec"
     ]
   },
 ]
 
 export const topics = [
   "Biology",
+"Pokemon",
   "Maths",
   "English",
   "History",
