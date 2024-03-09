@@ -18,8 +18,8 @@ At the end of the match, the player gets score & stars corresponding to his perf
 Open Command Line and input the following commands one line at a time
 
 ```
-* git clone https://github.com/wats3082/React-QuizGame.git
-* cd React-QuizGame
+* git clone https://github.com/wats3082/Game-ReactQuiz.git
+* cd Game-ReactQuiz
 * yarn install (or npm install)
 * yarn start (or npm start)
 ```
