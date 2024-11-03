@@ -1,4 +1,72 @@
 export const Questions = [
+    {
+    id: Math.random(),
+    question: "In a corporate office, employees are required to use their access cards to enter different sections of the building. What type of control is being implemented in this scenario?...",
+    correctAnswer: "Physical control",
+    wrongAnswers: [
+     " Detective control"
+"Preventive control"
+"Physical control"
+"Corrective control"
+    ]
+  },
+    {
+    id: Math.random(),
+    question: "Aim to stop security incidents before they occur...",
+    correctAnswer: "Preventive control",
+    wrongAnswers: [
+     " Detective control"
+"Physical control"
+"Corrective control"
+    ]
+  },
+    {
+    id: Math.random(),
+    question: "In a corporate office, employees are required to use their access cards to enter different sections of the building. What type of control is being implemented in this scenario?...",
+    correctAnswer: "Corrective controls",
+    wrongAnswers: [
+     " Detective control"
+"Preventive control"
+"Physical control"
+    ]
+  },
+    {
+    id: Math.random(),
+    question: "In a corporate office, employees are required to use their access cards to enter different sections of the building. What type of control is being implemented in this scenario?...",
+    correctAnswer: "Physical control",
+    wrongAnswers: [
+     " Detective control"
+"Preventive control"
+"Physical control"
+"Corrective control"
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     id: Math.random(),
     question: "How many planets in our solar system?",
