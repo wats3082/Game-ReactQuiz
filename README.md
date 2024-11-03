@@ -1,8 +1,11 @@
 # Quiz Game with ReactJs & TypeScript.
 
 
-
+```
 ## [Play Now](https://quiz-game-liart.vercel.app/)
+```
+
+
 
 ## Description ##
 
